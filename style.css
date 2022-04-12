@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+}
+body {
+    height: 100vh;
+    width: 100vw;
+    background-color: #fffef7;
+}
+.first-face {
+    text-align: center;
+    padding-top: 30%;
+}
+.my-name{
+    font-family: 'Rock Salt', cursive;
+}
+.iam {
+    font-size: 200%;
+    font-family: 'Sacramento', cursive;
+}
